@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Kaizhong 👋
 
-<!--
-**Rapeter/Rapeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer focused on AI Agents, LLM applications,
+and backend engineering.
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI Agent systems and agentic workflows
+- LLM application development
+- Backend services with Node.js / Python
+- RAG, tool calling and multi-agent systems
+
+## 🛠 Tech Stack
+
+Python · JavaScript · Node.js · Express · MongoDB · Git · Docker
+
+## 📌 Featured Projects
+
+### AI Agent Project
+Building an agent capable of planning, tool usage, memory and task execution.
+
+## 📫 Contact
+
+LinkedIn: linkedin.com/in/kaizhong-wang-9410b0288
+Email: kaizhongw@student.unimelb.edu.au
