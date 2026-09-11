@@ -52,8 +52,8 @@ An open-source, local-first AI investment research workbench for deep research, 
 ## GitHub at a Glance
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rapeter&show_icons=true&theme=transparent&hide_border=true" alt="Rapeter's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapeter&layout=compact&theme=transparent&hide_border=true" alt="Rapeter's most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rapeter&theme=github_dark" alt="Rapeter's GitHub contribution summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rapeter&theme=github_dark" alt="Rapeter's repository languages" />
 </p>
 
 ## Let's Connect
