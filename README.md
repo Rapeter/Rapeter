@@ -51,10 +51,28 @@ An open-source, local-first AI investment research workbench for deep research, 
 
 ## GitHub at a Glance
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rapeter&theme=github_dark" alt="Rapeter's GitHub contribution summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rapeter&theme=github_dark" alt="Rapeter's repository languages" />
-</p>
+<div align="center">
+
+### AI Engineer Focus Map
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>🤖 AI Systems</b><br />
+      <sub>AI Agents · LLM Applications</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>⚙️ Product Engineering</b><br />
+      <sub>Agentic Workflows · Backend Systems</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>🔎 Applied Research</b><br />
+      <sub>RAG · Tool Calling · Multi-Agent Systems</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## Let's Connect
 
